@@ -2,7 +2,6 @@ source 'https://rubygems.org'
 
 # Postgres for dev/prod parity with heroku
 gem 'pg'
-
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.4'
 # Use sqlite3 as the database for Active Record
